@@ -53,7 +53,11 @@ If you want to use the same icon for multiple folders you can edit the `URLs` fi
 
 ### Standard SF Symbol
 
+https://github.com/rknightuk/custom-finder-sidebar-icons/blob/main/SF%20Symbol.mp4
+
 ### Custom SF Symbol
+
+https://github.com/rknightuk/custom-finder-sidebar-icons/blob/main/SF%20Symbol%20Custom.mp4
 
 ## Credits
 
